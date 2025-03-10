@@ -1,2 +1,13 @@
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+.conda/
+conda-env/
 llm-phishing/
 
+#Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*

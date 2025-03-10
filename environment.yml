@@ -14,3 +14,11 @@ dependencies:
   - gradio
   - vcrpy
   - pytest
+  - scikit-learn
+  - xgboost
+  - joblib
+  - unittest
+  - whois
+  - pyopenssl
+  - tqdm
+
